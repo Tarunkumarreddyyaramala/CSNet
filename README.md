@@ -16,8 +16,6 @@ python setup.py install
 cd ..
 ~~~
 
-Computational complexity:
-for dehazing 41.19 GFLOPs, 4.27M
 
 
 ## Citation
@@ -29,7 +27,3 @@ for dehazing 41.19 GFLOPs, 4.27M
   year={2024}
 }
 ~~~
-
-
-## Contact
-Should you have any question, please contact Yuning Cui.
